@@ -1,6 +1,7 @@
 
 ### iOS Developer👩‍💻
-- 🌱 I’m currently learning RxSwift & MVVM
+- 🌱 I’m currently learning RxSwift & ReactorKit
+- 🙇‍♂️ I'm continuous researching Basic
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ga-yo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
