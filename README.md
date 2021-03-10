@@ -2,7 +2,7 @@
 ### iOS Developer👩‍💻
 - 🌱 I’m currently learning RxSwift & ReactorKit
 - 🙇‍♂️ I'm continuous researching Basic
-- 🕶 I'm currently interested in vapor
+- 🕶 I'm currently interested in Vapor
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ga-yo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
