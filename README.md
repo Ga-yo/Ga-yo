@@ -1,6 +1,6 @@
 
-### iOS Developer👩‍💻
-- 🌱 I’m currently learning RxSwift & ReactorKit
+### iOS Developer 👩‍💻
+- 🌱 I’m currently learning CS & Testing
 - 🙇‍♂️ I'm continuous researching Basic
 - 🕶 I'm currently interested in Vapor
 
